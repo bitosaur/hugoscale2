@@ -56,3 +56,46 @@ Perfect for large dogs, workshops, or any custom weighing need.
 - Java 8+ (JDK) for the desktop app
 
 ## Project Structure
+  hugoscale2/
+  ├── arduino/                          # Arduino sketch
+  ├── java_desktop_app_code/HugoScale/  # Full Java desktop project
+  ├── Hugoscale.jpg
+  ├── IMG_1588.jpg
+  ├── IMG_1593.jpg
+  ├── Software.jpg
+  ├── javaAppScreen.png
+  ├── LICENSE
+  ├── REFERENCES
+  ├── README.md
+  └── GALLERY.md
+
+
+## Quick Start
+
+1. **Arduino**  
+   - Open the `.ino` in `arduino/`  
+   - Install HX711 library  
+   - Calibrate with a known weight  
+   - Upload
+
+2. **Java App**  
+   - Open the project in any Java IDE  
+   - Run the GUI  
+   - Select COM port → Connect → Set Zero → Weigh!
+
+## Gallery
+
+See **[GALLERY.md](GALLERY.md)** for build photos and live software screenshots.
+
+## References
+
+Additional notes and useful links are in the [REFERENCES](REFERENCES) file.
+
+## License
+
+MIT License — see [LICENSE](LICENSE)
+
+---
+
+Built with ❤️ for **Hugo** the GSD  
+Star the repo if you build one!
