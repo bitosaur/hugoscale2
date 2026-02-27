@@ -56,18 +56,21 @@ Perfect for large dogs, workshops, or any custom weighing need.
 - Java 8+ (JDK) for the desktop app
 
 ## Project Structure
-  hugoscale2/
-  ├── arduino/                          # Arduino sketch
-  ├── java_desktop_app_code/HugoScale/  # Full Java desktop project
-  ├── Hugoscale.jpg
-  ├── IMG_1588.jpg
-  ├── IMG_1593.jpg
-  ├── Software.jpg
-  ├── javaAppScreen.png
-  ├── LICENSE
-  ├── REFERENCES
-  ├── README.md
-  └── GALLERY.md
+```plaintext
+hugoscale2/
+├── arduino/                          # Arduino firmware (.ino sketch)
+├── java_desktop_app_code/
+│   └── HugoScale/                    # Full Java Swing desktop application
+├── Hugoscale.jpg
+├── IMG_1588.jpg
+├── IMG_1593.jpg
+├── Software.jpg
+├── javaAppScreen.png
+├── LICENSE
+├── REFERENCES
+├── README.md
+└── GALLERY.md
+```
 
 
 ## Quick Start
