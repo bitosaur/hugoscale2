@@ -19,7 +19,7 @@ He walks onto it like it’s part of the floor.
 This is the **second iteration** of the project.  
 → First version (Processing + C++): [hugoscale](https://github.com/bitosaur/hugoscale)
 
-**Bonus motivation:** I also wanted to brush up on Java before an upcoming work-related Java project, so I rewrote the entire desktop GUI from scratch in clean Java Swing.
+**Bonus motivation:** I also wanted to brush up on Java, so I rewrote the desktop GUI in Java Swing.
 
 ## Overview
 
